@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS villadeaguimesfc;
-CREATE DATABASE villadeaguimesfc;
-USE villadeaguimesfc;
+DROP DATABASE IF EXISTS bd_villadeaguimesfc;
+CREATE DATABASE bd_villadeaguimesfc;
+USE bd_villadeaguimesfc;
 
 create table equipo (
 id_equipo	int not null auto_increment,
