@@ -152,3 +152,27 @@ insert into afiliado values('43234523F','Claudia','Martinez Calvez','2023-01-23'
 insert into afiliado values('45676734R','Azael','Reyes Martel','2023-04-12',0);
 insert into afiliado values('45377569C','Laura','Perez Suarez', '2023-03-03',30);
 insert into afiliado values('65742345E','Misifu','Mininez Gatetez','2016-01-01',2000);
+
+insert into equipo_subcontrata values(1,5);
+insert into equipo_subcontrata values(2,4);
+insert into equipo_subcontrata values(3,3);
+insert into equipo_subcontrata values(4,2);
+insert into equipo_subcontrata values(5,1);
+
+insert into equipo_inventario values(1,5);
+insert into equipo_inventario values(2,4);
+insert into equipo_inventario values(3,3);
+insert into equipo_inventario values(4,2);
+insert into equipo_inventario values(5,1);
+
+insert into equipo_afiliado values(1,'45655634R');
+insert into equipo_afiliado values(2,'43234523F');
+insert into equipo_afiliado values(3,'45676734R');
+insert into equipo_afiliado values(4,'45377569C');
+insert into equipo_afiliado values(5,'65742345E');
+
+insert into jugador_partido values('43543567R',1);
+insert into jugador_partido values('47234727S',2);
+insert into jugador_partido values('12345678A',3);
+insert into jugador_partido values('11223344B',4);
+insert into jugador_partido values('98765432Z',5);
